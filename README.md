@@ -1,5 +1,5 @@
 
-
+![logo](https://github.com/Arunaa1213/Arunaa1213/blob/main/focus%20wallpaper.png)
 <h1 align="center">Hi 👋, I'm Arunaa S</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
